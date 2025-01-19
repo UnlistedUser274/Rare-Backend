@@ -11,7 +11,7 @@
 
 ## Planned Features
 
-- [x] Vbucks on kill/win
+- [ ] Vbucks on kill/win
 - [x] Battle Pass
 - [x] XP & Leveling
 - [x] Challenges
@@ -20,9 +20,9 @@
 - [x] Matchmaker
 - [x] Party V2
 - [x] Daily rewards
-- [x] Gifting
+- [ ] Gifting
 - [x] Purchasing
-- [x] Refunding
+- [ ] Refunding
 - [x] Arena
 - [x] GameSessions
 - [x] Donations

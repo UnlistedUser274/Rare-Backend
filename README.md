@@ -1,5 +1,5 @@
 # Rare-Backend
-![Banner][(https://media.discordapp.net/attachments/1331068330580119603/1337541492184715397/Key_Art_-_Battle_Pass_Season_10_-_Fortnite_1.png?ex=67a7d216&is=67a68096&hm=bc95b1af1d7fcc1e8261eb13437a855f4fbb66fe5ce68e912e1cf1642c2da8cf&=&format=webp&quality=lossless)
+![Banner][(https://media.discordapp.net/attachments/1331068330580119603/1337544295456047114/Key_Art_-_Battle_Pass_Season_10_-_Fortnite_1.png?ex=67a7d4b2&is=67a68332&hm=67542ab6c7b37d849d619ce2541e9fe0a46848f604874919c1bfa145598ab9a7&=&format=webp&quality=lossless&width=550&height=310)]
 
 **Universal Fortnite Backend written in TypeScript**
 
